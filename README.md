@@ -1,5 +1,5 @@
 # Criando-Dashboard-de-Vendas-com-PowerBI-Utilizando-Star-Schema
-Quarto Desafio com Power BI - NTT DATA Bootcamp
+Quarto (.1) Desafio com Power BI - NTT DATA Bootcamp
 
 ## Descrição do desafio de modelagem dimensional
  - Objetivo: criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
